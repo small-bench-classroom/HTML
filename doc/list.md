@@ -12,9 +12,9 @@
 ### 2.课程目录
 1.[HTML简介，介绍](http://www.baidu.com)  
 2.[HTML编辑器](http://www.baidu.com)  
-3.[HTML元素h和属性]()  
-4.[HTML常用元素]()   
-5.[HTML所有元素表]()   
+3.[HTML标签和属性]()  
+4.[HTML常用标签]()   
+5.[HTML所有标签]()   
 6.[HTML样式]()  
 7.[HTML脚本]()  
 8.[HTML总结]()  
