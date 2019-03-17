@@ -21,6 +21,7 @@
 8.[HTML总结]()  
 ### 3.加入社群
 1.堂主微信二维码  
-![微信二维码 ](https://ws2.sinaimg.cn/large/006tKfTcgy1g12mrebgc3j30by0bymxz.jpg)  
-2.关注微信公众号
-![关注微信公众号](https://ws1.sinaimg.cn/large/006tKfTcgy1g164s5wmx1j30by0bydgm.jpg)  
+![微信二维码 ](https://ws2.sinaimg.cn/large/006tKfTcgy1g12mrebgc3j30by0bymxz.jpg)
+
+2.关注微信公众号  
+![关注微信公众号](https://ws1.sinaimg.cn/large/006tKfTcgy1g164s5wmx1j30by0bydgm.jpg)
