@@ -13,12 +13,12 @@
 1.[HTML简介，介绍](http://www.baidu.com)  
 2.[HTML编辑器](http://www.baidu.com)  
 3.[HTML、CSS、JavaScript分别的作用]()  
-3.[HTML标签和属性]()  
-4.[HTML常用标签]()   
-5.[HTML所有标签]()   
-6.[HTML样式-CSS]()  
-7.[HTML脚本-JavaScript]()  
-8.[HTML总结]()  
+4.[HTML标签和属性]()  
+5.[HTML常用标签]()   
+6.[HTML所有标签]()   
+7.[HTML样式-CSS]()  
+8.[HTML脚本-JavaScript]()  
+9.[HTML总结]()  
 ### 3.加入社群
 1.堂主微信二维码  
 ![微信二维码 ](https://ws2.sinaimg.cn/large/006tKfTcgy1g12mrebgc3j30by0bymxz.jpg)
